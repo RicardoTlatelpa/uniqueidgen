@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/RicardoTlatelpa/uniqueidgen/gen"
+	gen "github.com/RicardoTlatelpa/uniqueidgen"
 )
 
 func main() {
