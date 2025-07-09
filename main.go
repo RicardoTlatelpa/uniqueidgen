@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 	"time"
-	
-	"uniqueidgen/gen"
+
+	"github.com/RicardoTlatelpa/uniqueidgen/gen"
 )
 
 func main() {
